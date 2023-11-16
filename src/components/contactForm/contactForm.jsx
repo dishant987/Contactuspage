@@ -1,5 +1,5 @@
 import styles from './contactForm.module.css';
-import Button from '../Button/button';
+import Button from '../Button/Button';
 import { MdMessage } from 'react-icons/md';
 import { HiPhone } from 'react-icons/hi';
 import { HiOutlineMail } from 'react-icons/hi';
